@@ -1,6 +1,10 @@
 # Discord iOS Token Grabber
 **This is for your own personal use. I am not responsible for what you do with this in anyway.**
 
+# Reporting Issues
+- [Please open a ticket with any available error details](https://github.com/spinfal/ios-token-grabber/issues/new/choose).
+   - **If you don't provide any details, I will ignore the issue.**
+
 # How to Use
 The steps to get started are listed here:
 1. Choose a method of adding the Shortcut
