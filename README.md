@@ -1,4 +1,4 @@
-# Discord iOS Token Logger
+# Discord iOS Token Grabber
 **This is for your own personal use. I am not responsible for what you do with this in anyway.**
 
 # How to Use
