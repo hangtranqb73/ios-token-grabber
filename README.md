@@ -13,9 +13,7 @@ The steps to get started are listed here:
 
 2. After adding the Shortcut, encode your webhook URL using this tool: https://base64.guru/converter/encode/text
 
-3. Copy the encoded text, and follow the steps in the GIF below:
-
-![Tutorial GIF](https://cdn.discordapp.com/attachments/788198099067076638/866239999903924224/image0.gif)
+3. Copy the encoded text, and fill in the prompt when adding the Shortcut
 
 4. Paste the encoded webhook URL into the textarea, and save
 
