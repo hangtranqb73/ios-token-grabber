@@ -8,7 +8,7 @@
 # How to Use
 The steps to get started are listed here:
 1. Choose a method of adding the Shortcut
-  - Link: https://www.icloud.com/shortcuts/a83171b24b4b49ee89a686f384ae70fb
+  - Link: https://www.icloud.com/shortcuts/cded78390b714fae92571bc07fe3f91d
   - File: https://www.spinfal.ga/DiscordBetaTemplate.shortcut?cache=false
 
 2. After adding the Shortcut, encode your webhook URL using this tool: https://base64.guru/converter/encode/text
